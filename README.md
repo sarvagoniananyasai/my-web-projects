@@ -309,8 +309,3 @@ function displayUserMessages(){
     `
     ControlOfUserMessages.append(ControlOfResponseElement);
   });
-}
-
-      </main>
-    </body>
-</html>
